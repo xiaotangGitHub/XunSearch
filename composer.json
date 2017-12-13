@@ -1,0 +1,22 @@
+{
+  "name": "tangpeng/tp-xunsearch",
+  "description": "基于xunsearch php-sdk集成简单的演示",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xiaotangGitHub",
+      "email": "1257390133@qq.com",
+      "homepage": "http://tpblog.club"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "tangpeng\\xunsearch\\": "src/demo"
+    },
+    "classmap": ["src/lib/"]
+  }
+}
