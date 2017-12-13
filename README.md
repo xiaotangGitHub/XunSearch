@@ -62,7 +62,8 @@ _A simple DEMO based on PHP-SDK integration based on XunSearch_
     private function refresh()
 </pre>
 
-##_基于xunsearch php-sdk集成简单的演示_
+_基于xunsearch php-sdk集成简单的演示_
+--------------------------------------------------
 <pre>
     /**
      * Search constructor.
@@ -125,7 +126,8 @@ _A simple DEMO based on PHP-SDK integration based on XunSearch_
     private function refresh()
 </pre>
 
-###使用该扩展需编译安装XunSearch，且开启XunSearch服务###
+使用该扩展需编译安装XunSearch，且开启XunSearch服务
+-------------------------------------------------------------------
 <pre>
 #下载包
 mkdir /usr/local/xunsearch
