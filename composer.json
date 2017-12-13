@@ -9,7 +9,6 @@
       "homepage": "http://tpblog.club"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3"
   },
